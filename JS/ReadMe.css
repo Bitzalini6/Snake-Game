@@ -21,5 +21,10 @@ body{
     font-size:30px;
 }
 
+#myGame {
+    border: solid 10px #98B4D4;
+    border-style: inset;
+}
+
 
  
