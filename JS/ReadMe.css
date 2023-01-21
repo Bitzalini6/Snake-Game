@@ -1,0 +1,25 @@
+
+
+
+body{
+    font-family:Impact,'Arial Narrow Bold', sans-serif;
+    text-align: center;
+     background-image: url("https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+    
+ }
+ h1{
+    text-decoration-line: underline;
+    text-decoration-color: blueviolet;
+    text-decoration-thickness: 10px;
+    font-size:70px;
+    
+    
+    
+ };
+
+#tryAgain {
+    font-size:30px;
+}
+
+
+ 
